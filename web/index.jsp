@@ -8,5 +8,9 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <form action="hello">
+            Enter your name:<input type="text" name="name"  />
+            <input type="submit" value="Say Hello"/>
+        </form>
     </body>
 </html>
